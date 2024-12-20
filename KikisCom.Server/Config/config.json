@@ -1,0 +1,7 @@
+﻿{
+  "Login": "sa",
+  "Password": "1234",
+  "SQLServerAdr": "sql1",
+  "SQLServerPort": "",
+  "BackUpPath": "/var/opt/sqlBackUp/"
+}
