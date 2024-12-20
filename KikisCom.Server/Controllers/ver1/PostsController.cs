@@ -13,12 +13,6 @@ namespace KikisCom.Server.Controllers.ver1
         {
             _postService = postService;
         }
-        [HttpGet("check")]
-        [Authorize]
-        public async Task<IActionResult> CheckMethod()
-        {
-            return Ok();
-        }
 
         [HttpGet("getPosts")]
         public async Task<IActionResult> GetPosts()
