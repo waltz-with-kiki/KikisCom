@@ -1,0 +1,62 @@
+[20.12.2024 16:50:29] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[20.12.2024 17:02:09] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[20.12.2024 17:08:29] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[20.12.2024 17:10:28] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[20.12.2024 17:10:57] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[20.12.2024 17:12:51]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:12:51]  INFO - No changes to the database
+[20.12.2024 17:18:59]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:18:59]  INFO - No changes to the database
+[20.12.2024 17:20:56]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:20:56]  INFO - No changes to the database
+[20.12.2024 17:52:28]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:52:28]  INFO - No changes to the database
+[20.12.2024 17:53:26]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:53:26]  INFO - No changes to the database
+[20.12.2024 17:55:06]  INFO - User admin logged in.
+[20.12.2024 17:59:56]  INFO - Connection to DataBase suсcessful
+[20.12.2024 17:59:56]  INFO - No changes to the database
+[20.12.2024 18:01:37]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:01:37]  INFO - No changes to the database
+[20.12.2024 18:02:18]  INFO - User logged out.
+[20.12.2024 18:03:54]  INFO - User admin logged in.
+[20.12.2024 18:26:26]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:26:26]  INFO - No changes to the database
+[20.12.2024 18:27:45]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:27:45]  INFO - No changes to the database
+[20.12.2024 18:30:29]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:30:29]  INFO - No changes to the database
+[20.12.2024 18:34:58]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:34:58]  INFO - No changes to the database
+[20.12.2024 18:35:16]  INFO - User aafjiqwd@yandex.ru created a new account.
+[20.12.2024 18:35:47]  INFO - User newacc logged in.
+[20.12.2024 18:36:33]  INFO - User logged out.
+[20.12.2024 18:36:47]  INFO - User admin logged in.
+[20.12.2024 18:37:32]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:37:32]  INFO - No changes to the database
+[20.12.2024 18:44:02]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:44:02]  INFO - No changes to the database
+[20.12.2024 18:44:48]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:44:48]  INFO - No changes to the database
+[20.12.2024 18:45:49]  INFO - First User
+[20.12.2024 18:45:49]  INFO - User fjifwejf@yandex.ru created a new account.
+[20.12.2024 18:46:47]  INFO - Connection to DataBase suсcessful
+[20.12.2024 18:46:47]  INFO - No changes to the database
+[20.12.2024 18:47:01]  INFO - User aafjiqwd@yandex.ru created a new account.
+[20.12.2024 18:47:48]  INFO - User logged out.
+[20.12.2024 18:48:35]  INFO - User newacc logged in.
+[20.12.2024 18:49:09]  INFO - User logged out.
+[20.12.2024 18:49:29]  INFO - User admin logged in.
+[20.12.2024 21:14:36]  INFO - Connection to DataBase suсcessful
+[20.12.2024 21:14:36]  INFO - No changes to the database
+[20.12.2024 21:17:35]  INFO - Connection to DataBase suсcessful
+[20.12.2024 21:17:35]  INFO - No changes to the database
+[20.12.2024 21:18:30]  INFO - User newacc logged in.
+[20.12.2024 21:20:50]  INFO - Connection to DataBase suсcessful
+[20.12.2024 21:20:50]  INFO - No changes to the database
+[20.12.2024 21:22:53]  INFO - User admin logged in.
+[20.12.2024 21:26:12]  INFO - Connection to DataBase suсcessful
+[20.12.2024 21:26:12]  INFO - No changes to the database
+[20.12.2024 21:27:49]  INFO - Connection to DataBase suсcessful
+[20.12.2024 21:27:49]  INFO - No changes to the database
+[20.12.2024 21:28:39]  INFO - User newacc logged in.

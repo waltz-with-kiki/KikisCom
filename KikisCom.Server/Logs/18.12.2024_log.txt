@@ -1,0 +1,13 @@
+[18.12.2024 17:11:25] ERROR - Server runtime error, cannot connect to DataBase, server was stopped, message: System.InvalidOperationException: No service for type 'KikisCom.Server.Services.DatabaseManagementService' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Program.StartServer(String[] args) in S:\knowledge halls\new world\KikisCom\KikisCom.Server\Program.cs:line 63
+[18.12.2024 17:16:27] ERROR - Server runtime error, cannot connect to DataBase, server was stopped, message: System.InvalidOperationException: No service for type 'KikisCom.Server.Services.DatabaseManagementService' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Program.StartServer(String[] args) in S:\knowledge halls\new world\KikisCom\KikisCom.Server\Program.cs:line 63
+[18.12.2024 18:28:07] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[18.12.2024 18:34:54] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[18.12.2024 18:36:01] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[18.12.2024 18:37:24] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
+[18.12.2024 18:38:06] ERROR - DatabaseManagementService.EnsureDatabaseIsUpToDate method error, message: BackUp path is empty aborting database update
